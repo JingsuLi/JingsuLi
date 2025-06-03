@@ -1,16 +1,19 @@
-## Hi there 👋
+# Jingsu Li
 
-<!--
-**JingsuLi/JingsuLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS/Math @ UIUC  
+Building small systems around agents. Mostly experimenting with autonomy, orchestration, and behavior-level memory.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Current focus
+
+- lightweight agent runners & local routing logic  
+- task-level autonomy and retry strategy  
+- observable agent traces (logs, error paths, feedback)  
+- agent-to-agent communication without central control
+
+Not aiming for end-user tools. Mostly testing frameworks, workflows, and limits.
+
+📬 jingsu0529@outlook.com  
+🌱 building in small loops, writing things down when I can
+
